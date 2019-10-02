@@ -34,6 +34,11 @@ To use it in your website, include one `div` tag as,
 and include script file as `<script type="text/javascript" src="http://127.0.0.1:8000/static/js/captcha.js"></script>`
 
 
+You will see captcha as, 
 
+![alt ](https://github.com/bkm009/captcha-it/blob/master/Screenshot%20from%202019-10-02%2017-26-50.png)
+
+
+Moreover, in `CaptchaGenerator.py` file, you can increse/decrease number of letters in captcha. :D
 
 
